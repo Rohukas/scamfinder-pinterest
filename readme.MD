@@ -7,7 +7,7 @@ It uses the pinterest search function to search the query you entered(i.e 'tech 
 
 **How does it work?**\
 It works by using the pinterest search mechanism and parsing the titles and descriptions of every given result.\
-Example title: Pogo Technical Problems? Get Pogo Support Number 1 (833) 442 7444 \
+Example title: Pogo Technical Problems? Get Pogo Support Number 1 (234) 567 7890 \
 The script parses the number from the title by cleaning and doing some more tricks.
 
 **How do I use it?**\
