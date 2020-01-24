@@ -3,7 +3,7 @@ Scamfinder-Pinterest is a tool used for finding scammers numbers and active page
 It uses the pinterest search function to search the query you entered(i.e 'tech support') and attempt to parse a phone numbers from the results.
 
 **Example Output**\
-[29 days]Parsed nr: 6006188847702 - https://www.pinterest.com/pin/636766834799714695 - https://www.247tech****.us/fix-quickbooks-error-6006/
+[29 days]Parsed nr: 12345678902 - https://www.pinterest.com/pin/636766834799714695 - https://www.247tech****.us/fix-quickbooks-error-6006/
 
 **How does it work?**\
 It works by using the pinterest search mechanism and parsing the titles and descriptions of every given result.\
