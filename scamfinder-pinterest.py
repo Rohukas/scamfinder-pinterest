@@ -1,4 +1,4 @@
-# pip intsall py3-pinterest - https://github.com/bstoilov/py3-pinterest
+# pip install py3-pinterest - https://github.com/bstoilov/py3-pinterest
 import time
 from py3pin.Pinterest import Pinterest
 import json
